@@ -18,11 +18,12 @@ Welcome to **Kitchen Chaos**! 🔥 A fast-paced, fun-filled cooking game where y
 3. **Serve on Time** – Deliver the dish before the customer leaves.
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/f4c54840-53bb-44d5-b119-171a2ca67daa)
+![image](https://github.com/user-attachments/assets/671671e6-e614-4c3b-a7fa-07cf6391456b)
 
 ![image](https://github.com/user-attachments/assets/d6303b4f-2aac-4fd6-aee3-1110c9c7191b)
 
-![image](https://github.com/user-attachments/assets/671671e6-e614-4c3b-a7fa-07cf6391456b)
+![image](https://github.com/user-attachments/assets/f4c54840-53bb-44d5-b119-171a2ca67daa)
+
 
 ## 🔧 Installation
 
