@@ -16,36 +16,24 @@ Welcome to **Kitchen Chaos**! 🔥 A fast-paced, fun-filled cooking game where y
 1. **Take Orders** – Check what the customers want.
 2. **Cook the Food** – Use ingredients and follow the recipe.
 3. **Serve on Time** – Deliver the dish before the customer leaves.
-4. **Earn Coins** – Use earnings to upgrade your kitchen.
 
 ## 📸 Screenshots
-![Gameplay Screenshot](https://via.placeholder.com/800x400?text=Gameplay+Screenshot)  
-![Kitchen Upgrade](https://via.placeholder.com/800x400?text=Kitchen+Upgrade)  
+![image](https://github.com/user-attachments/assets/f4c54840-53bb-44d5-b119-171a2ca67daa)
+
+![image](https://github.com/user-attachments/assets/d6303b4f-2aac-4fd6-aee3-1110c9c7191b)
+
+![image](https://github.com/user-attachments/assets/671671e6-e614-4c3b-a7fa-07cf6391456b)
 
 ## 🔧 Installation
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/kitchen-chaos.git
 
-# Navigate to the project directory
-cd kitchen-chaos
-
-# Run the game
-./start-game.sh  # or execute the main file accordingly
-```
-
-## 🚀 Future Updates
-- 🎭 **Multiplayer Mode** – Play with friends in co-op mode.
-- 🏁 **New Challenges** – More levels with increasing difficulty.
-- 🎂 **Special Events** – Seasonal recipes and limited-time challenges.
+You can download and play **Kitchen Chaos** from [Itch.io](https://ramanuz.itch.io/kitchen-chaos). Follow the instructions on the page to install and start playing! 🚀
 
 ## 👥 Contributors
 - **Ramanuz Kashyap** – Developer & Designer
-- **[Your Team Members]** – Additional Credits
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to modify and share! 😊
 
 ---
 
-Enjoy the chaos and happy cooking! 🍳🔥
+Enjoy the chaos, and happy cooking! 🍳🔥
