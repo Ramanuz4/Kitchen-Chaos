@@ -2,7 +2,7 @@
 
 Welcome to **Kitchen Chaos**! 🔥 A fast-paced, fun-filled cooking game where you manage a busy kitchen, prepare dishes, and serve customers before they lose patience! 🏃‍♂️💨
 
-(![KitchenChaosLogo](https://github.com/user-attachments/assets/5981b367-a344-4882-a422-fc318fcb1208))  
+![KitchenChaosLogo](https://github.com/user-attachments/assets/5981b367-a344-4882-a422-fc318fcb1208)
 
 ## 🎮 Features
 - 🏃 **Time-Based Challenges** – Cook and serve as fast as you can!
